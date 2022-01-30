@@ -1,3 +1,3 @@
 # odin-recipes
 
-a recipe for a mealoaf.
+a recipe for a meatloaf.
